@@ -16,19 +16,17 @@ Auth	      JSON Web Tokens (JWT)
 
 ## Getting Started
 ## ✅ Backend
-bash
-Copy
-Edit
+```
 cd backend
 npm install
 node server.js
+```
 ## ✅ Frontend
-bash
-Copy
-Edit
+```
 cd frontend
 npm install
 npm start
+```
 ## 🌐 Test in the Browser
 Registration Page: http://localhost:3000
 
